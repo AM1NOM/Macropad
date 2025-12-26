@@ -10,8 +10,8 @@ Controla is a compact, tactile controller that brings your most-used shortcuts a
 - Custom PCB and 3D printed case
 
 ## Screenshots
-![main](images\AdobeExpressPhotos_9c54e331133045cbb3de4c9fbc849317_CopyEdited.png)
-![mainn](images\hackpad.jpg)
+![main](images/AdobeExpressPhotos_9c54e331133045cbb3de4c9fbc849317_CopyEdited.png)
+![mainn](images/AdobeExpressPhotos_fb6bb35c12214c6bb2978b7bf7650981_CopyEdited.png)
 
 
 - **Schematic:**
