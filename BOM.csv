@@ -1,0 +1,16 @@
+Ref,Qty,Part,Description
+U1,1,Seeed XIAO RP2040 (SMD),"RP2040 MCU module, SMD mount"
+OLED1,1,"0.91"" OLED SSD1306 I2C",Pin order GND-VCC-SCL-SDA
+ENC1,1,EC11 Rotary Encoder w/ push,Volume / scroll encoder
+KNOB1,1,Encoder knob,Fits EC11 shaft
+SW1-SW7,7,MX-style mechanical switches,Keyboard switches
+KEYCAPS,7,Blank DSA keycaps (white),For MX switches
+LED1-LED7,7,SK6812 MINI-E RGB LEDs,Per-key RGB lighting
+D1-D7,7,1N4148 diodes (TH),"Optional, for key matrix"
+PCB1,1,Custom PCB,Macropad PCB
+M3x16,4,M3 x 16mm screws,Case mounting
+HEATSET,4,M3 heatset inserts,For 3D printed case
+CASE,1,3D printed case,No acrylic
+SOLDER_IRON,1,Soldering iron,Required for assembly
+SOLDER,1,Solder wire 0.5mm,For TH + SMD
+FLUX,1,Flux pen,Recommended for SMD
